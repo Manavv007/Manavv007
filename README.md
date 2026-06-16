@@ -1,34 +1,100 @@
-<h1 align="center">Hi 👋, I'm Manav</h1>
-<h3 align="center">Full-Stack Backend & AI Engineer building production RAG frameworks, microservices, and event-driven automation workflows.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Manav+Bhavsar+👋;Full-Stack+Backend+%26+AI+Engineer;Building+Production+RAG+Frameworks;AWS+%7C+FastAPI+%7C+LangChain;3x+Odoo+Hackathon+Finalist" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on [ExAai-SDK-resume-parser](https://github.com/Manavv007/ExAai-SDK-resume-parser)
+<br/>
 
-- 🌱 I’m currently learning **Deepening my expertise in advanced LLM evaluation, agentic RAG workflows, and optimizing cloud-native backend deployments on AWS.**
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <h3>💡 About Me</h3>
+      <ul>
+        <li>🔭 <b>Currently Working On:</b> <a href="https://github.com/Manavv007/ExAai-SDK-resume-parser">ExAai-SDK-resume-parser</a> and optimizing cloud-native backend deployments on AWS.</li>
+        <li>🚀 <b>Core Focus:</b> Deepening my expertise in advanced LLM evaluation, agentic RAG workflows, and backend microservices.</li>
+        <li>⚙️ <b>Recent Projects:</b> Building <b>S.A.R.A.L</b> (Production RAG for scheme discovery) and <b>ResQNet</b> (Cloud-native disaster response system).</li>
+        <li>👯 <b>Looking to Collaborate On:</b> <a href="https://github.com/Manavv007/SentinEL-Sentinel-eGeMAPS-openSMILE-">SentinEL (Vocal-feature ML analysis)</a>.</li>
+        <li>💬 <b>Ask Me About:</b> Retrieval-Augmented Generation (RAG), FastAPI, event-driven workflows with n8n, and Data Structures in Python/Java.</li>
+        <li>⚡ <b>Fun Fact:</b> I thrive on turning caffeine and high-pressure 24-hour sprints into fully functional backend automation systems!</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- 👯 I’m looking to collaborate on [SentinEL-Sentinel-eGeMAPS-openSMILE-](https://github.com/Manavv007/SentinEL-Sentinel-eGeMAPS-openSMILE-)
+<br/>
 
-- 🤝 I’m looking for help with [SentinEL-Sentinel-eGeMAPS-openSMILE-](https://github.com/Manavv007/SentinEL-Sentinel-eGeMAPS-openSMILE-)
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <h3>🛠️ Languages & Tools</h3>
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=python,java,js,ts,fastapi,flask,express,nodejs&theme=dark" />
+        </a><br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=aws,gcp,docker,mysql,postgres,mongodb,redis,nginx&theme=dark" />
+        </a><br><br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,git,github,postman,figma&theme=dark" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- 👨‍💻 All of my projects are available at [github.com/Manavv007](github.com/Manavv007)
+<br/>
 
-- 💬 Ask me about **Retrieval-Augmented Generation (RAG), FastAPI, building event-driven automation workflows with n8n, and data structures & algorithms.**
+<table width="100%" align="center">
+  <tr>
+    <td colspan="2">
+      <h3>📊 GitHub Analytics</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=manavv007&show_icons=true&theme=tokyonight&hide_border=true" alt="Manav's Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manavv007&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavv007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-- 📫 How to reach me **Feel free to connect via email at bhavsarmanav14@gmail.com or find me on LinkedIn at manavbhavsar0908.**
+<br/>
 
-- ⚡ Fun fact **I am a 3x Odoo Hackathon finalist who thrives on turning caffeine and high-pressure 24-hour sprints into fully functional backend automation systems!**
+<table width="100%" align="center">
+  <tr>
+    <td>
+      <h3>📈 Contribution Activity</h3>
+      <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manavv007&bg_color=1a1b27&color=70a5fd&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/bhavsarmanav7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavsarmanav7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manavbhavsar0908/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manavbhavsar0908/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/manavbhavsar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/manavbhavsar007" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manavv007&show_icons=true&locale=en&layout=compact" alt="manavv007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manavv007&show_icons=true&locale=en" alt="manavv007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manavv007&" alt="manavv007" /></p>
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <h3>📫 Connect with Me</h3>
+      <a href="mailto:bhavsarmanav14@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <a href="https://www.linkedin.com/in/manavbhavsar0908/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="https://twitter.com/bhavsarmanav7">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+      </a>
+      <a href="https://www.kaggle.com/manavbhavsar007">
+        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" />
+      </a>
+    </td>
+  </tr>
+</table>
