@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Manav+Bhavsar+👋;Full-Stack+Backend+%26+AI+Engineer;Building+Production+RAG+Frameworks;AWS+%7C+FastAPI+%7C+LangChain;3x+Odoo+Hackathon+Finalist" alt="Typing SVG" />
+  <a href="https://github.com/Manavv007">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Manav+Bhavsar;Full-Stack+Backend+%26+AI+Engineer;Building+Production+RAG+Frameworks;AWS,+FastAPI,+and+LangChain;3x+Odoo+Hackathon+Finalist" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -68,11 +70,13 @@
 
 <table width="100%" align="center">
   <tr>
-    <td>
-      <h3>📈 Contribution Activity</h3>
-      <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manavv007&bg_color=1a1b27&color=70a5fd&line=3B82F6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
-      </div>
+    <td align="center">
+      <h3>🐍 Contribution History</h3>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manavv007/Manavv007/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manavv007/Manavv007/output/github-contribution-grid-snake.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Manavv007/Manavv007/output/github-contribution-grid-snake.svg">
+      </picture>
     </td>
   </tr>
 </table>
